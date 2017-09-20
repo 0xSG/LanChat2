@@ -5,6 +5,7 @@ This application is the upgraded version of the [LanChat](https://github.com/0xp
 * Better gui.
 * Solved common bugs.
 * User input checks (Ip address check).
+* Erase the chat history.
 
 This app will help you to create a simple application for the lan communication. This app use UDP protocol.
 
