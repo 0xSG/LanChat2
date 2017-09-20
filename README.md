@@ -1,5 +1,5 @@
 # LanChat2 :globe_with_meridians:
-This application is the upgraded version of the [LanChat](https://github.com/0xpulsar/LanChat) 
+This application is the upgraded version of the [LanChat](https://github.com/0xpulsar/LanChat).
 **we have included:**
 * Better gui.
 * Solved common bugs.
