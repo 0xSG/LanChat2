@@ -8,7 +8,7 @@ This application is the upgraded version of the [LanChat](https://github.com/0xp
 * Erase the chat history.
 
 This app will help you to create a simple application for the lan communication. This app use UDP protocol.
-[Try app](https://github.com/0xpulsar/LanChat2/raw/master/LanChat.jar)
+[Try App](https://github.com/0xpulsar/LanChat2/raw/master/LanChat.jar)
 
 //// S G K ////
 
