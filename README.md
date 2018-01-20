@@ -16,7 +16,5 @@ This application is the upgraded version of the [LanChat](https://github.com/0xp
 
 This app will help you to understand how does a simple Lan Chat application Works. This app use UDP protocol.
 ### [[ Try App ]](https://github.com/0xpulsar/LanChat2/raw/master/LanChat.jar)
-
-### [//// S G K ////](http://sgkcreations.blogspot.in)
-
 **[ IF YOU FIND ANY BUGS YOU CAN [PULL REQUEST](https://github.com/0xpulsar/LanChat2/pulls) ]**
+### [//// S G K ////](http://sgkcreations.blogspot.in)
