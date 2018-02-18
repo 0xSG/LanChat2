@@ -11,7 +11,7 @@ This application is the upgraded version of the [LanChat](https://github.com/0xp
 * Port Number:5545 .
 * Protocol: UDP .
 ### Requirements
-* [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [Java SE Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 
 This app will help you to understand how does a simple Lan Chat application Works. This app use UDP protocol.
